@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MeuPrimeiroApp</string>
+    <string name="login_button">Entrar</string>
+    <string name="forgot_password_link">Esqueci a senha</string>
+    <string name="sign_in">Cadastre-se</string>
+    <string name="string_email">Email</string>
+    <string name="string_password">Senha</string>
+
+    <string name="email_required">O email é obrigatorio</string>
+</resources>

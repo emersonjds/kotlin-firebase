@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "182216698284",
+    "firebase_url": "https://meuappkotlin.firebaseio.com",
+    "project_id": "meuappkotlin",
+    "storage_bucket": "meuappkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182216698284:android:bdf6abb12223515718f209",
+        "android_client_info": {
+          "package_name": "com.example.meuprimeiroapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182216698284-3ibqh29vlbf025e6btjr1dmfqcufe6dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfelEJkCYTsqT__S0SuH1WmWpo_QZoILk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182216698284-3ibqh29vlbf025e6btjr1dmfqcufe6dv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
